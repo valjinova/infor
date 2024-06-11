@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kali na otoku Ugljan</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header, footer {
+            background-color: #4682b4;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        main {
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #4682b4;
+        }
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Kali na otoku Ugljan</h1>
+    </header>
+    <main>
+        <div class="content">
+            <h2>O mjestu Kali</h2>
+            <p>Kali je slikovito ribarsko mjesto smješteno na otoku Ugljan, dijelu zadarskog arhipelaga. Poznato je po svojoj bogatoj ribarskoj tradiciji, prekrasnim plažama i kristalno čistom moru.</p>
+            
+            <h2>Što posjetiti</h2>
+            <ul>
+                <li>Stara jezgra mjesta s uskim uličicama i tradicionalnim dalmatinskim kućama</li>
+                <li>Crkva sv. Lovre iz 15. stoljeća</li>
+                <li>Brojne plaže i uvale idealne za kupanje i opuštanje</li>
+                <li>Ribarske fešte i lokalne manifestacije</li>
+            </ul>
+            
+            <h2>Galerija</h2>
+            <img src="https://example.com/kali.jpg" alt="Pogled na Kali">
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 Informacije o Kali. Sva prava pridržana.</p>
+    </footer>
+</body>
+</html>
